@@ -67,8 +67,3 @@ https://www.kaggle.com/snap/amazon-fine-food-reviews
 1️⃣6️⃣ Avg-Word2Vec and TFIDF-Word2Vec(Code Sample) 💻
 
 Thank you for checking out this project! 🙏
-
-Note:
-This Case-study/Project was covered in the Applied AI course.
-
-Thank you for checking out this project! 🙏
